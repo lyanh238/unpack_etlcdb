@@ -100,7 +100,7 @@ index,codepoint,label,writer
 
 ---
 
-## 📚 About the ETL Dataset
+##  About the ETL Dataset
 
 - Developed by AIST (Japan)
 - Contains handwritten **kana** and **kanji** characters
@@ -118,7 +118,7 @@ index,codepoint,label,writer
 
 ---
 
-## 🧪 Example Use with PyTorch
+##  Example Use with PyTorch
 
 You can easily build a PyTorch `Dataset` using the extracted images and `metadata.csv` (not included here — let us know if needed).
 
